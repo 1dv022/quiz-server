@@ -40,3 +40,6 @@ node_modules
 #Cloud9
 .c9
 .c9revisions
+
+#Vagrant
+.vagrant/

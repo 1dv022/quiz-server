@@ -18,9 +18,6 @@
       "type": "CC0"
     }
   ],
-  "files": [
-    ""
-  ],
   "keywords": [],
   "devDependencies": {
     "grunt-contrib-jshint": "~0.7.0",
@@ -36,7 +33,8 @@
     "request": "^2.44.0",
     "grunt-contrib-compress": "^0.12.0",
     "grunt-contrib-copy": "^0.6.0",
-    "grunt-coveralls": "^1.0.0"
+    "grunt-coveralls": "^1.0.0",
+    "grunt": "~0.4.5"
   },
   "scripts": {
     "test": "jasmine-node spec/*.spec.js --verbose"
