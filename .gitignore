@@ -43,3 +43,5 @@ node_modules
 
 #Vagrant
 .vagrant/
+
+.DS_Store
